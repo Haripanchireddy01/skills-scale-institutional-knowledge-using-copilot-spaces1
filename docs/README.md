@@ -19,10 +19,10 @@ Quality assurance is embedded throughout the delivery process rather than treate
 - [Project Management Overview](octoacme-project-management-overview.md) - Core principles, roles, and lifecycle overview
 - [Project Initiation Guide](octoacme-project-initiation.md) - How to validate and authorize new work
 - [Project Planning](octoacme-project-planning.md) - Turning initiatives into actionable backlogs
-- [Execution &amp; Tracking](octoacme-execution-and-tracking.md) - Day-to-day delivery and progress tracking
+- [Execution & Tracking](octoacme-execution-and-tracking.md) - Day-to-day delivery and progress tracking
 - [Risks and Communication](octoacme-risks-and-communication.md) - Risk management and stakeholder communication
-- [Release &amp; Deployment Guide](octoacme-release-and-deployment.md) - Standardized release processes
-- [Retrospective &amp; Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Capturing learnings and improvements
+- [Release & Deployment Guide](octoacme-release-and-deployment.md) - Standardized release processes
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Capturing learnings and improvements
 - [Roles and Personas](octoacme-roles-and-personas.md) - Team member roles and responsibilities
 
 ## Getting Started
@@ -36,9 +36,9 @@ If you're new to OctoAcme or need to quickly understand our project management a
 3. **Follow the project lifecycle**: Depending on which phase your current project is in, dive into the relevant guides:
    - Starting a new project? Begin with [Project Initiation Guide](octoacme-project-initiation.md)
    - Planning sprints or releases? See [Project Planning](octoacme-project-planning.md)
-   - In active development? Check [Execution &amp; Tracking](octoacme-execution-and-tracking.md)
-   - Preparing to ship? Review [Release &amp; Deployment Guide](octoacme-release-and-deployment.md)
-   - Completed a milestone? Use [Retrospective &amp; Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+   - In active development? Check [Execution & Tracking](octoacme-execution-and-tracking.md)
+   - Preparing to ship? Review [Release & Deployment Guide](octoacme-release-and-deployment.md)
+   - Completed a milestone? Use [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 
 4. **Learn about communication and risk**: The [Risks and Communication](octoacme-risks-and-communication.md) guide is essential for all team members to ensure effective stakeholder management and issue escalation.
 
