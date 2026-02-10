@@ -81,7 +81,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 UX Designers ensure products meet user needs through research, prototyping, and design. They bridge the gap between business requirements, end-users, and technical teams to create intuitive experiences.
 
 ### Responsibilities
-- Ensure products meet user needs by driving user research, prototyping, usability testing, and design hand-off
+- Drive user research, prototyping, usability testing, and design hand-off
 - Bridge the gap between business requirements, end-users, and technical teams
 - Create wireframes, mockups, and interactive prototypes
 - Conduct user research and usability testing
